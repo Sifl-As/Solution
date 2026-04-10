@@ -1,0 +1,6 @@
+*.hprof
+*.log
+/build/
+/.gradle/
+/.idea/
+*.iml
